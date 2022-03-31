@@ -1,0 +1,6 @@
+com\axonactive\jpa\config\ResourceConfig.class
+com\axonactive\jpa\controller\RestaurantController.class
+com\axonactive\jpa\service\impl\RestaurantServiceImpl.class
+com\axonactive\jpa\entity\Menu.class
+com\axonactive\jpa\service\RestaurantService.class
+com\axonactive\jpa\entity\Restaurant.class
